@@ -2,7 +2,6 @@ import streamlit as st
 from stqdm import stqdm
 from utils import model
 import pandas as pd
-import time
 from io import BytesIO
 
 import seaborn as sns
