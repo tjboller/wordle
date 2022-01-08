@@ -33,6 +33,8 @@ def get_error_str_after_guess(answer, guess):
 
 
 def get_words_after_guess(error_str, guess, possible_words=None):
+    assert len(error_str) == 5, "invalid error str 1"
+    assert set(error_str).difference(set(['g', 'r', 'y'])) == set([]), "invalid error str 2"
     words = POSSIBLE_WORDS if possible_words is None else possible_words
     for position, error_letter, guess_letter in zip(
             range(WORDLE_WORD_LENGTH), error_str, guess):
@@ -170,7 +172,7 @@ def get_ranked_guesses(possible_words=None, sample_size=None, proportional_answe
         pd.merge(POSSIBLE_WORDS_FREQ, ranked_words_df)
         .sort_values(['entropy', 'count'], ascending=[True, False])
     )
-    return ranked_words_df
+    return ranked_words_df.reset_index(drop=True)
 
 
 def play_game(first_guess, answer=None, possible_words=None,
@@ -178,7 +180,6 @@ def play_game(first_guess, answer=None, possible_words=None,
 
     possible_words = (POSSIBLE_WORDS if possible_words is None
                           else possible_words)
-
     guess = first_guess
     turns = 0
     while len(possible_words) != 1:
@@ -198,11 +199,12 @@ def play_game(first_guess, answer=None, possible_words=None,
             possible_words=possible_words,
             proportional_answer_prob=proportional_answer_prob
         )
+
         if verbose:
             LOGGER.info(f'Guess: {guess}, {num_words} words remain')
             LOGGER.info(f'Top Next Guesses: \n{ranked_new_guesses[:10]}\n')
 
-        guess = ranked_new_guesses['word'][0]
+        guess = ranked_new_guesses.iloc[0]['word']
         turns += 1
     return turns
 
