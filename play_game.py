@@ -1,5 +1,6 @@
 import argparse
 import os
+import json
 
 from utils import model
 from utils import logger
@@ -28,23 +29,30 @@ if __name__ == '__main__':
     parser.add_argument(
         '-p', '--proportional_answer',
         help='whether you want to assume proportional likelihood of answers to frequency of use')
+    parser.add_argument(
+        '-r', '--random_guess', dest='random_guess', action='store_true',
+        help='suppress printing to options the screen'
+    )
+
 
     parser.set_defaults(
         suppress=False,
         initial_guess='lares',
         answer=None,
-        proportional_answer=False
+        proportional_answer=False,
+        random_guess=False
     )
     args = parser.parse_args()
     verbose = not args.suppress
-    num_tries = model.play_game(
+    num_tries, hist = model.play_game(
         first_guess=args.initial_guess,
         answer=args.answer,
         proportional_answer_prob=args.proportional_answer,
-        verbose=verbose
+        verbose=verbose,
+        play_random=args.random_guess
     )
     if args.answer:
-        print(f'{args.answer}, {num_tries}')
+        print(f'{args.answer}|{num_tries}|{json.dumps(hist)}')
     else:
         print(num_tries)
 

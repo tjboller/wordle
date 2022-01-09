@@ -176,10 +176,13 @@ def get_ranked_guesses(possible_words=None, sample_size=None, proportional_answe
 
 
 def play_game(first_guess, answer=None, possible_words=None,
-              proportional_answer_prob=None, verbose=True):
+              proportional_answer_prob=None, verbose=True,
+              play_random=False):
 
     possible_words = (POSSIBLE_WORDS if possible_words is None
                           else possible_words)
+
+    num_possible_words_hist = [len(possible_words)]
     guess = first_guess
     turns = 0
     while len(possible_words) != 1:
@@ -193,8 +196,9 @@ def play_game(first_guess, answer=None, possible_words=None,
 
         possible_words = get_words_after_guess(
             error_str=error_str, guess=guess, possible_words=possible_words)
-
         num_words = len(possible_words)
+        num_possible_words_hist.append(num_words)
+
         ranked_new_guesses = get_ranked_guesses(
             possible_words=possible_words,
             proportional_answer_prob=proportional_answer_prob
@@ -204,9 +208,13 @@ def play_game(first_guess, answer=None, possible_words=None,
             LOGGER.info(f'Guess: {guess}, {num_words} words remain')
             LOGGER.info(f'Top Next Guesses: \n{ranked_new_guesses[:10]}\n')
 
-        guess = ranked_new_guesses.iloc[0]['word']
+        if play_random:
+            guess = ranked_new_guesses.sort_values(
+                'count', ascending=False).iloc[0]['word']
+        else:
+            guess = ranked_new_guesses.iloc[0]['word']
         turns += 1
-    return turns
+    return turns, num_possible_words_hist
 
 
 def _distr_func(guess, sample_size, proportional_answer_prob, possible_words):

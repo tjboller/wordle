@@ -1,0 +1,600 @@
+shalm|3
+mirex|4
+brace|4
+maise|4
+coted|6
+fixed|6
+leges|5
+patka|4
+cagot|4
+dacks|11
+akela|4
+degus|6
+chant|4
+amins|5
+servo|2
+whear|4
+kidge|5
+brows|5
+coati|2
+maile|6
+boxes|6
+spelt|4
+divna|3
+shawl|3
+crazy|3
+rindy|3
+doxie|5
+sylis|4
+twire|3
+bhuna|3
+amoks|3
+sloid|2
+nizam|5
+tepas|4
+laded|6
+ethyl|4
+acted|3
+horas|3
+briks|6
+stuff|4
+aunts|4
+traps|4
+tabis|6
+serra|2
+whirl|3
+phish|4
+avast|4
+slove|3
+bocca|3
+thanx|5
+shark|4
+lints|5
+pulpy|3
+rigid|3
+salat|3
+shrub|3
+sicks|8
+drail|5
+dobro|4
+wheel|4
+doole|5
+footy|4
+kobos|5
+clegs|6
+saint|3
+cumin|3
+linty|5
+quoif|3
+antic|3
+bauks|5
+mayst|3
+duple|4
+ayaya|4
+wheal|5
+alpha|3
+nouny|4
+gluts|5
+nicks|4
+butoh|3
+absey|2
+meved|5
+katal|5
+plaps|6
+built|4
+trash|3
+dicer|6
+avgas|4
+tragi|2
+pavin|4
+wamed|2
+larnt|6
+corps|6
+armor|4
+fiver|6
+wetly|3
+oucht|3
+mines|4
+ybore|4
+drums|4
+colby|5
+sooms|7
+autos|2
+azygy|4
+rudie|3
+atmas|3
+lichi|3
+culch|4
+unces|4
+curry|3
+moult|3
+aport|4
+dital|4
+cleft|3
+jigot|5
+wedgy|4
+apage|3
+coure|3
+idyls|2
+voice|3
+lycea|2
+cajun|4
+swops|4
+teugh|4
+swail|3
+punky|6
+sadhe|4
+twirl|3
+metro|3
+small|3
+whops|4
+bulky|4
+chank|4
+gimpy|4
+typed|5
+tiers|4
+tipsy|3
+venom|3
+dungy|4
+proke|6
+pecks|4
+geits|6
+swale|5
+romps|3
+freit|4
+ollie|3
+cairn|4
+dorrs|6
+undos|3
+iotas|2
+deman|2
+hosen|2
+bingy|6
+sawah|4
+noose|2
+ixnay|3
+sheas|3
+evhoe|3
+bezel|4
+naifs|3
+muset|3
+slate|3
+scant|3
+amnia|3
+bifid|4
+danio|4
+lanes|3
+sagum|4
+threw|3
+cered|4
+felts|7
+reset|3
+opahs|5
+sicko|3
+twals|4
+doled|4
+imide|3
+swear|2
+thill|3
+malik|3
+atigi|4
+ploye|4
+apgar|4
+maybe|5
+zaris|7
+rough|3
+gumma|4
+sucky|3
+pynes|5
+cauks|5
+cecum|4
+whort|3
+bento|3
+enter|4
+briar|4
+games|3
+obeah|3
+klett|4
+tenia|3
+buffo|3
+pareu|5
+awoke|4
+under|4
+quist|3
+laces|4
+goons|5
+nonyl|2
+tupik|3
+tilde|2
+upled|3
+burqa|5
+ouphs|4
+negro|3
+wecht|3
+prows|9
+matlo|3
+chary|7
+divas|4
+twixt|4
+coden|3
+feyed|5
+jinns|5
+toile|2
+buzzy|7
+jills|13
+death|3
+locks|5
+folio|3
+caple|2
+style|4
+hunks|4
+tunas|3
+gents|6
+levee|3
+caked|7
+ycond|3
+haars|4
+psora|3
+debug|4
+chich|4
+jembe|4
+goris|5
+linny|3
+confs|4
+kains|3
+ulvas|4
+spule|2
+cough|4
+khaya|4
+dunks|6
+gomer|6
+chest|5
+woofs|8
+rayas|5
+tired|2
+afore|3
+mossy|4
+sumis|5
+tabus|6
+agila|3
+chaws|4
+conch|4
+knaps|4
+blase|3
+heigh|4
+snaws|6
+rival|4
+tunic|2
+asura|3
+numen|4
+teths|5
+yogee|3
+coact|4
+alder|2
+sodom|4
+cowed|4
+snows|4
+fease|4
+dsomo|4
+idles|4
+pules|4
+quods|3
+medii|3
+slims|5
+booty|4
+dorps|6
+sceat|4
+roars|4
+cager|8
+topaz|3
+dopey|4
+tewed|4
+snood|5
+winna|4
+valse|2
+lemur|2
+justs|8
+cream|4
+forky|4
+staig|3
+synch|3
+turds|5
+chore|3
+pyats|5
+lulus|4
+lawer|9
+edits|2
+fillo|3
+tyred|2
+saves|5
+milor|2
+kokra|5
+zeins|6
+paved|4
+vined|7
+keeve|4
+panto|4
+omrah|2
+belle|3
+vocab|3
+visne|3
+wazoo|5
+aghas|4
+ragis|5
+brool|4
+wushu|3
+meads|5
+eques|4
+grubs|3
+crome|5
+horde|4
+quasi|3
+sotol|3
+hinky|6
+tardy|5
+bluer|4
+bolar|6
+wifie|7
+momma|3
+tizes|7
+label|3
+grots|2
+phage|3
+eorls|2
+waded|7
+snods|5
+walls|3
+veles|6
+luach|3
+dildo|4
+sappy|5
+clads|9
+yarak|3
+bulge|3
+hamba|4
+imbue|3
+hokes|5
+hurry|4
+doura|3
+jooks|10
+folia|3
+saved|3
+spues|4
+prion|3
+tabla|3
+lased|1
+ketes|8
+annas|4
+crisp|3
+braks|8
+pages|5
+grump|3
+libri|2
+foley|3
+elsin|2
+trant|3
+krona|2
+plugs|3
+withy|3
+pixel|4
+flood|4
+muirs|3
+bitte|4
+bobby|4
+blams|7
+pozzy|5
+disks|4
+fatal|3
+plush|4
+grate|4
+lezes|8
+named|3
+palms|3
+currs|6
+guimp|4
+renin|3
+gelee|5
+ourie|2
+ranke|4
+ceili|3
+infix|3
+razor|3
+sculp|4
+gemma|3
+aures|4
+disas|5
+joyed|5
+moola|3
+pippy|6
+fanos|5
+cares|3
+sword|3
+hertz|4
+mashy|3
+reans|6
+moper|5
+elegy|3
+vades|5
+cardi|4
+tough|3
+gools|9
+krunk|4
+owrie|3
+mopsy|3
+chart|3
+loans|3
+lisle|2
+rivel|2
+oscar|3
+strak|6
+avise|3
+yowes|8
+acker|5
+barps|7
+clept|3
+jello|4
+rivet|3
+scout|4
+plotz|4
+hetes|7
+crena|3
+holos|6
+murls|8
+nards|10
+thawy|3
+benni|3
+kynds|3
+flawn|3
+antra|3
+acute|4
+regur|3
+dayan|3
+gifts|5
+repay|5
+souls|5
+fends|7
+seder|5
+bumps|4
+eager|3
+derms|8
+deals|3
+demes|6
+leady|5
+quipo|3
+deets|3
+tuans|4
+limba|3
+arish|3
+piety|3
+skeps|5
+raree|6
+baaed|7
+tikis|4
+chile|3
+denim|2
+blaes|2
+zeals|13
+seaze|5
+dicty|3
+spets|3
+bigly|3
+seton|2
+gules|6
+therm|3
+poulp|4
+suent|6
+tempi|2
+porer|4
+bream|4
+zulus|6
+sanes|10
+winge|3
+jouks|8
+blude|4
+gothy|4
+okapi|3
+cohoe|4
+bunce|5
+whomp|3
+pyxis|4
+cooch|3
+deils|2|[12972, 99, 1]
+prems|5|[12972, 98, 27, 14, 7, 1]
+fella|4|[12972, 124, 25, 3, 1]
+avert|3|[12972, 166, 8, 1]
+peavy|4|[12972, 219, 19, 2, 1]
+bulla|5|[12972, 258, 29, 5, 2, 1]
+artis|2|[12972, 113, 1]
+rerun|3|[12972, 105, 3, 1]
+lowan|4|[12972, 32, 3, 2, 1]
+layup|2|[12972, 36, 1]
+early|2|[12972, 5, 1]
+slobs|5|[12972, 233, 33, 15, 6, 1]
+beams|4|[12972, 77, 14, 3, 1]
+jammy|4|[12972, 400, 9, 2, 1]
+aglet|4|[12972, 19, 6, 2, 1]
+vague|3|[12972, 74, 6, 1]
+reaks|6|[12972, 27, 5, 4, 3, 2, 1]
+pipes|5|[12972, 330, 56, 36, 4, 1]
+backs|5|[12972, 339, 32, 10, 9, 1]
+ebons|3|[12972, 286, 17, 1]
+crone|5|[12972, 296, 19, 4, 3, 1]
+panel|3|[12972, 23, 8, 1]
+santo|2|[12972, 115, 1]
+monde|3|[12972, 571, 2, 1]
+linky|5|[12972, 59, 8, 3, 2, 1]
+zupas|3|[12972, 288, 34, 1]
+dixie|3|[12972, 571, 16, 1]
+peaks|4|[12972, 77, 14, 5, 1]
+mined|3|[12972, 371, 11, 1]
+video|2|[12972, 371, 1]
+troak|4|[12972, 256, 4, 2, 1]
+ochry|4|[12972, 300, 11, 2, 1]
+owner|3|[12972, 287, 7, 1]
+marry|5|[12972, 104, 25, 12, 5, 1]
+zebus|4|[12972, 286, 56, 12, 1]
+mints|4|[12972, 757, 6, 5, 1]
+spoil|3|[12972, 97, 6, 1]
+ramps|4|[12972, 51, 16, 8, 1]
+bilks|6|[12972, 233, 20, 4, 3, 2, 1]
+skimo|3|[12972, 347, 3, 1]
+ghast|3|[12972, 168, 2, 1]
+sanga|3|[12972, 115, 12, 1]
+shirr|4|[12972, 85, 6, 2, 1]
+boner|6|[12972, 287, 38, 23, 15, 3, 1]
+tocky|3|[12972, 832, 2, 1]
+mitts|5|[12972, 757, 31, 7, 3, 1]
+guyse|4|[12972, 245, 20, 3, 1]
+homey|4|[12972, 371, 21, 8, 1]
+tymps|3|[12972, 757, 12, 1]
+zaire|3|[12972, 25, 4, 1]
+rewin|4|[12972, 296, 37, 2, 1]
+gairs|7|[12972, 51, 8, 7, 6, 5, 4, 1]
+mired|6|[12972, 51, 5, 4, 3, 2, 1]
+scary|5|[12972, 57, 12, 6, 2, 1]
+furca|5|[12972, 80, 8, 5, 2, 1]
+goety|3|[12972, 571, 4, 1]
+front|2|[12972, 300, 1]
+gyppo|3|[12972, 832, 18, 1]
+moths|3|[12972, 757, 26, 1]
+tubas|4|[12972, 288, 5, 2, 1]
+evils|3|[12972, 99, 7, 1]
+ganja|3|[12972, 400, 35, 1]
+armil|2|[12972, 62, 1]
+johns|4|[12972, 757, 23, 5, 1]
+glias|3|[12972, 104, 2, 1]
+bends|4|[12972, 286, 8, 7, 1]
+whiny|3|[12972, 832, 12, 1]
+sijos|6|[12972, 757, 44, 10, 5, 2, 1]
+acari|3|[12972, 256, 4, 1]
+rawns|3|[12972, 51, 2, 1]
+light|4|[12972, 59, 8, 2, 1]
+nooit|3|[12972, 832, 2, 1]
+aweel|4|[12972, 19, 3, 2, 1]
+jomon|4|[12972, 832, 23, 2, 1]
+folly|8|[12972, 309, 22, 9, 8, 7, 6, 5, 1]
+alkyl|4|[12972, 258, 16, 6, 1]
+techy|3|[12972, 571, 57, 1]
+embar|4|[12972, 166, 29, 2, 1]
+azury|4|[12972, 256, 36, 2, 1]
+check|3|[12972, 571, 57, 1]
+pirai|3|[12972, 80, 2, 1]
+snugs|3|[12972, 757, 7, 1]
+gecko|4|[12972, 571, 25, 2, 1]
+tyred|2|[12972, 51, 1]
+wades|9|[12972, 116, 78, 53, 7, 6, 5, 4, 3, 1]
+pyets|5|[12972, 286, 16, 3, 2, 1]
+raped|4|[12972, 90, 15, 7, 1]
+segno|2|[12972, 245, 1]
+ashet|3|[12972, 11, 2, 1]
+meats|5|[12972, 77, 9, 8, 7, 1]
+debar|4|[12972, 166, 6, 2, 1]
+emmer|5|[12972, 287, 81, 24, 8, 1]
+spams|5|[12972, 288, 74, 16, 3, 1]
+chota|2|[12972, 453, 1]
+sield|2|[12972, 66, 1]
+menge|3|[12972, 571, 2, 1]
+hefte|3|[12972, 571, 46, 1]
+tucks|4|[12972, 757, 7, 3, 1]
+voids|6|[12972, 757, 125, 43, 15, 3, 1]
+butty|4|[12972, 832, 10, 4, 1]

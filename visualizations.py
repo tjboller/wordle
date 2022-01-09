@@ -56,6 +56,7 @@ if guesses and error_strs and st.session_state.guesses_submitted:
     error_strs = error_strs.replace(' ', '').split(',')
     possible_words = model.POSSIBLE_WORDS
     for guess, error in zip(guesses, error_strs):
+        guess = guess.lower()
         validate_error(error)
         validate_word(guess)
         possible_words = model.get_words_after_guess(

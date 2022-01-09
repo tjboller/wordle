@@ -1,0 +1,315 @@
+hefts|3
+raven|4
+dorks|4
+axled|5
+totes|4
+parts|2
+cohab|2
+brock|5
+ribby|3
+reify|5
+holla|4
+nugae|3
+antra|3
+rabbi|3
+hokey|5
+heapy|3
+gazes|5
+cangs|9
+chute|3
+tacit|4
+pareo|5
+gnaws|4
+pauas|5
+cores|3
+aizle|3
+ngoma|3
+films|4
+sowls|9
+edged|4
+fillo|5
+huzzy|7
+rifle|3
+meaty|3
+papaw|4
+lunar|4
+punas|4
+zonda|4
+ravey|6
+flout|5
+tarre|3
+moppy|4
+conne|3
+penne|4
+butch|2
+snees|3
+rebuy|4
+bindi|3
+casus|5
+fabby|6
+syces|5
+ratan|3
+hahas|7
+witan|3
+yirks|7
+raita|2
+groks|5
+grody|4
+primo|3
+nutty|3
+trape|3
+tiddy|5
+jambo|6
+samfu|5
+delos|2
+decos|4
+ovals|4
+scans|4
+perai|2
+shard|5
+arsed|2
+clint|5
+repin|4
+begar|4
+casas|6
+aspic|3
+lawns|2
+infra|3
+condo|4
+twill|2
+swile|4
+sexed|5
+speos|3
+leggy|4
+ridge|2
+belly|3
+hyrax|2
+drack|5
+qadis|7
+folia|3
+faint|4
+rived|4
+mages|5
+skimo|3
+dowts|7
+ruddy|4
+sawer|8
+rawly|3
+lutes|4
+drawl|6
+unlit|4
+ankle|4
+nance|4
+taunt|4
+kinda|4
+kerel|4
+reels|4
+unwet|6
+sined|3
+palas|5
+dural|5
+baked|7
+solds|8
+ombre|3
+mongo|3
+clash|4
+conte|4
+leaps|6
+tossy|4
+miaow|4
+which|3
+yirds|5
+parle|5
+pasta|4
+laund|3
+juror|3
+lames|6
+woken|6
+sumis|3
+owres|3
+studs|4
+bolts|3
+kynde|3
+froes|3
+stabs|3
+curio|2
+cinct|4
+poohs|3
+octyl|3
+sulus|4
+royne|4
+grand|6
+speal|4
+synod|3
+gusli|3
+ungod|3
+gemma|3
+herse|2
+fiest|3
+chiks|2
+faker|4
+leafy|4
+korun|4
+rammy|4
+equip|3
+kyaks|4
+vampy|5
+motis|3
+houff|4
+stylo|3
+pinny|6
+celeb|4
+bizzy|6
+sughs|3
+oncet|3
+riyal|4
+dwaum|3
+adieu|4
+tumpy|3
+bused|4
+saags|6
+needy|4
+newel|5
+breds|4
+zygon|4
+omens|3
+oaves|7
+munch|4
+lorry|4
+bogan|4
+divos|3
+toras|2
+batty|3
+dukka|4
+pudge|6
+kojis|3
+trave|5
+morts|7
+jacal|4
+deeps|5
+alary|6
+hatha|3
+mills|6
+upend|3
+lazed|7
+nache|4
+plaid|4
+loves|4
+stave|5
+balks|4
+miasm|4
+mimeo|3
+poori|3
+reech|2
+sayst|3
+shore|2
+papes|6
+thagi|2
+lenes|4
+assai|3
+ungag|4
+gelee|4
+babka|4
+celts|5
+plain|3
+hillo|4
+gents|7|[12972, 151, 30, 10, 9, 8, 7, 1]
+renay|3|[12972, 218, 24, 1]
+vaped|7|[12972, 344, 57, 5, 4, 3, 2, 1]
+atilt|3|[12972, 192, 2, 1]
+mutha|3|[12972, 31, 3, 1]
+frock|4|[12972, 394, 38, 11, 1]
+intro|3|[12972, 118, 4, 1]
+preop|4|[12972, 676, 79, 2, 1]
+sango|3|[12972, 726, 6, 1]
+gadid|4|[12972, 726, 104, 5, 1]
+xoana|3|[12972, 894, 21, 1]
+whose|4|[12972, 197, 6, 2, 1]
+brier|5|[12972, 676, 18, 4, 2, 1]
+bauks|5|[12972, 726, 28, 8, 3, 1]
+smaak|3|[12972, 894, 10, 1]
+inula|3|[12972, 894, 8, 1]
+basho|4|[12972, 100, 9, 3, 1]
+burqa|4|[12972, 112, 15, 2, 1]
+aster|4|[12972, 33, 4, 2, 1]
+hauns|5|[12972, 100, 19, 3, 2, 1]
+tempi|4|[12972, 375, 21, 2, 1]
+naves|5|[12972, 344, 73, 12, 3, 1]
+triad|3|[12972, 102, 7, 1]
+shist|3|[12972, 84, 2, 1]
+warps|5|[12972, 166, 52, 30, 3, 1]
+lager|5|[12972, 130, 7, 6, 5, 1]
+shchi|3|[12972, 268, 6, 1]
+tarry|3|[12972, 17, 3, 1]
+clave|4|[12972, 429, 13, 3, 1]
+vints|8|[12972, 232, 30, 10, 5, 4, 3, 2, 1]
+devot|3|[12972, 375, 8, 1]
+dhoti|4|[12972, 25, 3, 2, 1]
+nicad|3|[12972, 894, 13, 1]
+hoten|3|[12972, 54, 4, 1]
+comix|3|[12972, 1621, 26, 1]
+vodun|4|[12972, 1621, 40, 4, 1]
+silky|3|[12972, 1621, 5, 1]
+slake|4|[12972, 429, 3, 2, 1]
+yacht|3|[12972, 22, 3, 1]
+kaiak|4|[12972, 726, 16, 2, 1]
+oleic|3|[12972, 1667, 4, 1]
+croak|4|[12972, 352, 17, 3, 1]
+boral|3|[12972, 112, 12, 1]
+slips|5|[12972, 1621, 17, 3, 2, 1]
+caple|3|[12972, 344, 15, 1]
+dryer|3|[12972, 676, 20, 1]
+panga|5|[12972, 726, 48, 5, 2, 1]
+pricy|3|[12972, 394, 25, 1]
+nifes|5|[12972, 1667, 64, 36, 2, 1]
+gourd|4|[12972, 394, 24, 2, 1]
+puked|4|[12972, 1667, 69, 4, 1]
+bound|5|[12972, 1621, 14, 4, 3, 1]
+skirl|3|[12972, 394, 7, 1]
+kills|3|[12972, 1621, 28, 1]
+atopy|3|[12972, 192, 7, 1]
+penis|4|[12972, 1667, 36, 3, 1]
+squid|4|[12972, 1621, 16, 3, 1]
+gulas|5|[12972, 894, 11, 3, 2, 1]
+kalpa|3|[12972, 726, 9, 1]
+bufos|4|[12972, 1621, 101, 2, 1]
+plouk|4|[12972, 1621, 31, 7, 1]
+welks|4|[12972, 1667, 26, 6, 1]
+siver|5|[12972, 676, 7, 4, 3, 1]
+pries|5|[12972, 676, 5, 4, 3, 1]
+glaum|4|[12972, 894, 42, 2, 1]
+kells|9|[12972, 1667, 26, 10, 9, 8, 7, 6, 5, 1]
+smell|5|[12972, 1667, 20, 4, 3, 1]
+chest|3|[12972, 54, 2, 1]
+bitos|3|[12972, 343, 16, 1]
+chefs|5|[12972, 197, 15, 3, 2, 1]
+stile|4|[12972, 375, 11, 2, 1]
+gosse|5|[12972, 1667, 23, 9, 2, 1]
+quoin|2|[12972, 1621, 1]
+anted|4|[12972, 86, 3, 2, 1]
+acton|2|[12972, 192, 1]
+kibes|5|[12972, 1667, 64, 36, 3, 1]
+wongi|3|[12972, 1621, 23, 1]
+bucku|3|[12972, 1621, 49, 1]
+esnes|3|[12972, 112, 3, 1]
+bazoo|4|[12972, 726, 104, 17, 1]
+reggo|3|[12972, 676, 35, 1]
+balmy|4|[12972, 726, 55, 3, 1]
+seyen|3|[12972, 1667, 42, 1]
+whisk|2|[12972, 268, 1]
+cadgy|4|[12972, 726, 104, 8, 1]
+shade|2|[12972, 52, 1]
+tinks|4|[12972, 343, 4, 2, 1]
+rally|3|[12972, 135, 10, 1]
+antre|2|[12972, 33, 1]
+sinky|2|[12972, 1621, 1]
+zooty|5|[12972, 232, 18, 6, 2, 1]
+debus|5|[12972, 1667, 96, 4, 2, 1]
+creps|3|[12972, 676, 35, 1]
+newts|4|[12972, 151, 30, 3, 1]
+swang|4|[12972, 894, 19, 4, 1]
+bumps|5|[12972, 1621, 63, 9, 2, 1]
+gopik|3|[12972, 1621, 26, 1]
+dsomo|4|[12972, 1621, 20, 3, 1]
+skeen|4|[12972, 1667, 42, 4, 1]
+unmew|4|[12972, 1667, 69, 3, 1]
