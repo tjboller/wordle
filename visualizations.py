@@ -36,6 +36,7 @@ st.subheader('Solver')
 
 st.text('Write multiple guesses with comma seperation')
 st.text('For the errors - Use g for green, y for yellow, and r otherwise. For example "gyyyr, ryggy"')
+st.text('Write over your previous guess for your next guess. Refresh page to start again')
 
 st.session_state.possible_words = model.POSSIBLE_WORDS
 col1, col2 = st.columns(2)
