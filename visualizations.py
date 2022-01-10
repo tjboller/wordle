@@ -127,8 +127,8 @@ if st.button(label='Execute!') or st.session_state.submitted:
     st.session_state.submitted = True
 
     fig, ax = plt.subplots(figsize=(7, 4.4))
-    ax.set_ylabel('Number of Answers')
-    ax.set_xlabel('Density')
+    ax.set_ylabel('Density')
+    ax.set_xlabel('Number of Possible Answers After Guess')
     sns.histplot(data=data, element='step', ax=ax, alpha=.3)
 
     summary_avg = pd.DataFrame(data.mean())
